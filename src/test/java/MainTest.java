@@ -15,10 +15,5 @@ public class MainTest{
 	public void secondtest() {
 		assertEquals("Heelo","Heelo");
 	}
-	
-	@Test
-	public void thirdtest() {
-		assertEquals("Heelo","Heelo");
-	}
 
 }
